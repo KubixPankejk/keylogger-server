@@ -11,6 +11,3 @@ You can use the GET and POST methods on the "/" endpoint.
 - POST will write the data with the body
   `{
       keyboardData: <what user entered>
-   }`
-   
-This is a little bare bones project that shows with little effort how powerful a few lines of server side JavaScript using Node can be. It can be improved with the addition of a database such as MongoDB paired with a module such as Mongoose (To validate and structure API input). Also, the addition of update, and remove operations would be quite easy to implement. I also didn't implement good exception handling for this project.   
