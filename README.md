@@ -11,3 +11,6 @@ You can use the GET and POST methods on the "/" endpoint.
 - POST will write the data with the body
   `{
       keyboardData: <what user entered>
+
+Remember to change IP address to your server!!!
+Default server is listening on port 8080.
